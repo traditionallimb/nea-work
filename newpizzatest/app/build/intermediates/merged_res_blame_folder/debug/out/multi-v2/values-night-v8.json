@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.realpizzaplace.app-mergeDebugResources-50:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "D:\\Documents\\NEA Work\\nea-work\\newpizzatest\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "651",
+                        "endColumns": "107",
+                        "endOffsets": "754"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "106",
+                        "endOffsets": "157"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+com.example.realpizzaplace.app-ui-graphics-release-0 C:\Users\dom\.gradle\caches\transforms-3\0a3ae5fa3183f4a2b450bff7e49924ed\transformed\ui-graphics-release\res
+com.example.realpizzaplace.app-runtime-saveable-release-1 C:\Users\dom\.gradle\caches\transforms-3\0d57f3b1470fecd0ff9880f194b8053d\transformed\runtime-saveable-release\res
+com.example.realpizzaplace.app-coil-base-2.4.0-2 C:\Users\dom\.gradle\caches\transforms-3\13f2494ff058c9c1066df47c02b1524e\transformed\coil-base-2.4.0\res
+com.example.realpizzaplace.app-navigation-common-2.7.6-3 C:\Users\dom\.gradle\caches\transforms-3\1b66eb0a151c5646402fa28758a3cb8d\transformed\navigation-common-2.7.6\res
+com.example.realpizzaplace.app-activity-1.8.2-4 C:\Users\dom\.gradle\caches\transforms-3\1cc5f514b36a6156ace101817923bccd\transformed\activity-1.8.2\res
+com.example.realpizzaplace.app-navigation-compose-2.7.6-5 C:\Users\dom\.gradle\caches\transforms-3\22df4d25bd6dab0d2739767caf93bfdc\transformed\navigation-compose-2.7.6\res
+com.example.realpizzaplace.app-material-icons-extended-release-6 C:\Users\dom\.gradle\caches\transforms-3\249384846aeddff73152fc68604943c8\transformed\material-icons-extended-release\res
+com.example.realpizzaplace.app-activity-ktx-1.8.2-7 C:\Users\dom\.gradle\caches\transforms-3\2aace74a5e2b446304c2074060a3252f\transformed\activity-ktx-1.8.2\res
+com.example.realpizzaplace.app-foundation-release-8 C:\Users\dom\.gradle\caches\transforms-3\2fd7fba57e7c812de61fc0ebfe8531f3\transformed\foundation-release\res
+com.example.realpizzaplace.app-animation-release-9 C:\Users\dom\.gradle\caches\transforms-3\36d59c9b98b14b29170645985ca69955\transformed\animation-release\res
+com.example.realpizzaplace.app-lifecycle-livedata-core-2.6.2-10 C:\Users\dom\.gradle\caches\transforms-3\3d9c9c3558641477cacd7f47b65fdb27\transformed\lifecycle-livedata-core-2.6.2\res
+com.example.realpizzaplace.app-lifecycle-runtime-2.6.2-11 C:\Users\dom\.gradle\caches\transforms-3\442a0e66c78300a65acd1b9f058e7a2d\transformed\lifecycle-runtime-2.6.2\res
+com.example.realpizzaplace.app-ui-text-release-12 C:\Users\dom\.gradle\caches\transforms-3\4aa5b6ee5854654dc55250f6dd2927a9\transformed\ui-text-release\res
+com.example.realpizzaplace.app-core-ktx-1.13.0-alpha02-13 C:\Users\dom\.gradle\caches\transforms-3\507b6a47275a3ad6634b72cb4bc57335\transformed\core-ktx-1.13.0-alpha02\res
+com.example.realpizzaplace.app-ui-unit-release-14 C:\Users\dom\.gradle\caches\transforms-3\52f84b73b6b634c7e7818b8c7d9fe426\transformed\ui-unit-release\res
+com.example.realpizzaplace.app-material-ripple-release-15 C:\Users\dom\.gradle\caches\transforms-3\56dc96058a1a037dfb8482b1a2e093eb\transformed\material-ripple-release\res
+com.example.realpizzaplace.app-navigation-runtime-2.7.6-16 C:\Users\dom\.gradle\caches\transforms-3\59cc50503990bbae5716d22175d6276f\transformed\navigation-runtime-2.7.6\res
+com.example.realpizzaplace.app-lifecycle-process-2.6.2-17 C:\Users\dom\.gradle\caches\transforms-3\5a90af94b38953c7e277d11cfb570209\transformed\lifecycle-process-2.6.2\res
+com.example.realpizzaplace.app-material-icons-core-release-18 C:\Users\dom\.gradle\caches\transforms-3\60a76e4ddc8ff3fe5ec67c7af4e6ea69\transformed\material-icons-core-release\res
+com.example.realpizzaplace.app-customview-poolingcontainer-1.0.0-19 C:\Users\dom\.gradle\caches\transforms-3\6594bb9e26775e4e8b6e809a14994733\transformed\customview-poolingcontainer-1.0.0\res
+com.example.realpizzaplace.app-ui-tooling-data-release-20 C:\Users\dom\.gradle\caches\transforms-3\67e9031fa6de5d65bc848724d89934c2\transformed\ui-tooling-data-release\res
+com.example.realpizzaplace.app-savedstate-1.2.1-21 C:\Users\dom\.gradle\caches\transforms-3\7ae1337591b111f468c55ee92ee5f4de\transformed\savedstate-1.2.1\res
+com.example.realpizzaplace.app-ui-tooling-release-22 C:\Users\dom\.gradle\caches\transforms-3\7e1396ce0a29d4d9e56d50ebdc72de3f\transformed\ui-tooling-release\res
+com.example.realpizzaplace.app-runtime-release-23 C:\Users\dom\.gradle\caches\transforms-3\7f85dedac333d59cda84c071f7720605\transformed\runtime-release\res
+com.example.realpizzaplace.app-lifecycle-runtime-ktx-2.6.2-24 C:\Users\dom\.gradle\caches\transforms-3\7faf2ebd1093d71800aa1eb05d743095\transformed\lifecycle-runtime-ktx-2.6.2\res
+com.example.realpizzaplace.app-lifecycle-viewmodel-savedstate-2.6.2-25 C:\Users\dom\.gradle\caches\transforms-3\834944fada1b63487b6e9a6bc1e21dee\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.example.realpizzaplace.app-appcompat-resources-1.6.1-26 C:\Users\dom\.gradle\caches\transforms-3\90eb7c168e8ff27a406f0b7040dcbb0e\transformed\appcompat-resources-1.6.1\res
+com.example.realpizzaplace.app-animation-core-release-27 C:\Users\dom\.gradle\caches\transforms-3\922ba664d218c0488475080f91aefc4d\transformed\animation-core-release\res
+com.example.realpizzaplace.app-ui-tooling-preview-release-28 C:\Users\dom\.gradle\caches\transforms-3\94f203df4afe822adfc5449368e2e2b3\transformed\ui-tooling-preview-release\res
+com.example.realpizzaplace.app-ui-util-release-29 C:\Users\dom\.gradle\caches\transforms-3\a11a30aea6571293644eff223ee6d1b2\transformed\ui-util-release\res
+com.example.realpizzaplace.app-material-release-30 C:\Users\dom\.gradle\caches\transforms-3\a2bf9cee26b80ff1e4aacd2a316bf162\transformed\material-release\res
+com.example.realpizzaplace.app-lifecycle-runtime-compose-2.6.2-31 C:\Users\dom\.gradle\caches\transforms-3\a8719b65612b6d0bc21d13f48e4cb0d2\transformed\lifecycle-runtime-compose-2.6.2\res
+com.example.realpizzaplace.app-activity-compose-1.8.2-32 C:\Users\dom\.gradle\caches\transforms-3\ad4b89dab21ee0cbb252897f643f666e\transformed\activity-compose-1.8.2\res
+com.example.realpizzaplace.app-profileinstaller-1.3.1-33 C:\Users\dom\.gradle\caches\transforms-3\b4a45d9b4e1f87c649341393400fda05\transformed\profileinstaller-1.3.1\res
+com.example.realpizzaplace.app-ui-geometry-release-34 C:\Users\dom\.gradle\caches\transforms-3\c61cff16e5d2f8e1a248a5ae3933e8c0\transformed\ui-geometry-release\res
+com.example.realpizzaplace.app-startup-runtime-1.1.1-35 C:\Users\dom\.gradle\caches\transforms-3\c631a657dcdf099e7f30c4a68823f9f0\transformed\startup-runtime-1.1.1\res
+com.example.realpizzaplace.app-navigation-common-ktx-2.7.6-36 C:\Users\dom\.gradle\caches\transforms-3\cb44d7837ef837358d228c00e6fb4319\transformed\navigation-common-ktx-2.7.6\res
+com.example.realpizzaplace.app-core-runtime-2.2.0-37 C:\Users\dom\.gradle\caches\transforms-3\cceee5832e8037a0d73ffb0e15f3654c\transformed\core-runtime-2.2.0\res
+com.example.realpizzaplace.app-emoji2-1.4.0-38 C:\Users\dom\.gradle\caches\transforms-3\d2eaca123210c779e0a169639a6b3d89\transformed\emoji2-1.4.0\res
+com.example.realpizzaplace.app-lifecycle-viewmodel-compose-2.6.2-39 C:\Users\dom\.gradle\caches\transforms-3\d6f4adf11ff0c103da23b9c8cb0612a1\transformed\lifecycle-viewmodel-compose-2.6.2\res
+com.example.realpizzaplace.app-foundation-layout-release-40 C:\Users\dom\.gradle\caches\transforms-3\d831cf770f0baa7b2a5ee9e031f195c3\transformed\foundation-layout-release\res
+com.example.realpizzaplace.app-navigation-runtime-ktx-2.7.6-41 C:\Users\dom\.gradle\caches\transforms-3\d948a9a9a4d12d7bb4689085bf5a8287\transformed\navigation-runtime-ktx-2.7.6\res
+com.example.realpizzaplace.app-lifecycle-viewmodel-2.6.2-42 C:\Users\dom\.gradle\caches\transforms-3\da99ea7a52c5f05b21dc0ea9c289dbd3\transformed\lifecycle-viewmodel-2.6.2\res
+com.example.realpizzaplace.app-annotation-experimental-1.3.0-43 C:\Users\dom\.gradle\caches\transforms-3\e9fb79e9088637b244c63b6d4ed12439\transformed\annotation-experimental-1.3.0\res
+com.example.realpizzaplace.app-core-1.13.0-alpha02-44 C:\Users\dom\.gradle\caches\transforms-3\ec20b5f295d5115079fa4bdd1611789a\transformed\core-1.13.0-alpha02\res
+com.example.realpizzaplace.app-ui-release-45 C:\Users\dom\.gradle\caches\transforms-3\ee01baebe9bd9d0974a7b0b774ef1f8b\transformed\ui-release\res
+com.example.realpizzaplace.app-savedstate-ktx-1.2.1-46 C:\Users\dom\.gradle\caches\transforms-3\eff5f91f14b51699328327c6db98d7ec\transformed\savedstate-ktx-1.2.1\res
+com.example.realpizzaplace.app-lifecycle-viewmodel-ktx-2.6.2-47 C:\Users\dom\.gradle\caches\transforms-3\fd6fcf217078f4abf97636443cd74efd\transformed\lifecycle-viewmodel-ktx-2.6.2\res
+com.example.realpizzaplace.app-pngs-48 D:\Documents\NEA Work\nea-work\newpizzatest\app\build\generated\res\pngs\debug
+com.example.realpizzaplace.app-resValues-49 D:\Documents\NEA Work\nea-work\newpizzatest\app\build\generated\res\resValues\debug
+com.example.realpizzaplace.app-packageDebugResources-50 D:\Documents\NEA Work\nea-work\newpizzatest\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.realpizzaplace.app-packageDebugResources-51 D:\Documents\NEA Work\nea-work\newpizzatest\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.realpizzaplace.app-merged_res-52 D:\Documents\NEA Work\nea-work\newpizzatest\app\build\intermediates\merged_res\debug
+com.example.realpizzaplace.app-debug-53 D:\Documents\NEA Work\nea-work\newpizzatest\app\src\debug\res
+com.example.realpizzaplace.app-main-54 D:\Documents\NEA Work\nea-work\newpizzatest\app\src\main\res
