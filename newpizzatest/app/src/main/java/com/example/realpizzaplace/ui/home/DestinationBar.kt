@@ -37,7 +37,7 @@ fun DestinationBar(modifier: Modifier = Modifier) {
         modifier = modifier
     ) {
         Text(
-            text = "Delivery to 1600 Amphitheater Way",
+            text = "Delivery to 43 Real Road",
             style = MaterialTheme.typography.subtitle1,
             color = RealPizzaPlaceTheme.colors.textSecondary,
             textAlign = TextAlign.Center,

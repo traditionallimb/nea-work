@@ -48,20 +48,20 @@ private val searchCategoryCollections = listOf(
         name = "Categories",
         categories = listOf(
             SearchCategory(
-                name = "Chips & crackers",
-                imageUrl = "https://source.unsplash.com/UsSdMZ78Q3E"
+                name = "Pizzas",
+                imageUrl = ""
             ),
             SearchCategory(
-                name = "Fruit snacks",
-                imageUrl = "https://source.unsplash.com/SfP1PtM9Qa8"
+                name = "Sides",
+                imageUrl = ""
             ),
             SearchCategory(
                 name = "Desserts",
-                imageUrl = "https://source.unsplash.com/_jk8KIyN_uA"
+                imageUrl = ""
             ),
             SearchCategory(
-                name = "Nuts ",
-                imageUrl = "https://source.unsplash.com/UsSdMZ78Q3E"
+                name = "Drinks",
+                imageUrl = ""
             )
         )
     ),
@@ -70,28 +70,24 @@ private val searchCategoryCollections = listOf(
         name = "Lifestyles",
         categories = listOf(
             SearchCategory(
-                name = "Organic",
-                imageUrl = "https://source.unsplash.com/7meCnGCJ5Ms"
+                name = "Dairy Free",
+                imageUrl = ""
             ),
             SearchCategory(
                 name = "Gluten Free",
-                imageUrl = "https://source.unsplash.com/m741tj4Cz7M"
+                imageUrl = ""
             ),
             SearchCategory(
-                name = "Paleo",
-                imageUrl = "https://source.unsplash.com/dt5-8tThZKg"
+                name = "Nut Safe",
+                imageUrl = ""
             ),
             SearchCategory(
                 name = "Vegan",
-                imageUrl = "https://source.unsplash.com/ReXxkS1m1H0"
+                imageUrl = ""
             ),
             SearchCategory(
-                name = "Vegitarian",
-                imageUrl = "https://source.unsplash.com/IGfIGP5ONV0"
-            ),
-            SearchCategory(
-                name = "Whole30",
-                imageUrl = "https://source.unsplash.com/9MzCd76xLGk"
+                name = "Vegetarian",
+                imageUrl = ""
             )
         )
     )
@@ -102,20 +98,8 @@ private val searchSuggestions = listOf(
         id = 0L,
         name = "Recent searches",
         suggestions = listOf(
-            "Cheese",
-            "Apple Sauce"
-        )
-    ),
-    SearchSuggestionGroup(
-        id = 1L,
-        name = "Popular searches",
-        suggestions = listOf(
-            "Organic",
-            "Gluten Free",
-            "Paleo",
-            "Vegan",
-            "Vegitarian",
-            "Whole30"
+            "Pepperoni",
+            "Fanta"
         )
     )
 )

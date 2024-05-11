@@ -1,5 +1,6 @@
 package com.example.realpizzaplace.ui.components
 
+import android.annotation.SuppressLint
 import androidx.compose.animation.animateColorAsState
 import androidx.compose.foundation.background
 import androidx.compose.foundation.border
@@ -57,6 +58,7 @@ fun Modifier.offsetGradientBackground(
     )
 }
 
+@SuppressLint("ModifierFactoryUnreferencedReceiver")
 fun Modifier.diagonalGradientBorder(
     colors: List<Color>,
     borderSize: Dp = 2.dp,

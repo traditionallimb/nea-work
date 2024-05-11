@@ -46,9 +46,9 @@ private val popular = PizzaCollection(
     pizzas = pizzas.subList(14, 19)
 )
 
-private val wfhFavs = tastyTreats.copy(
+private val fanFavs = tastyTreats.copy(
     id = 3L,
-    name = "WFH favourites"
+    name = "Fan favourites"
 )
 
 private val newlyAdded = popular.copy(
@@ -58,7 +58,7 @@ private val newlyAdded = popular.copy(
 
 private val exclusive = tastyTreats.copy(
     id = 5L,
-    name = "Only on Jetpizza"
+    name = "Only on Real Pizza App"
 )
 
 private val also = tastyTreats.copy(
@@ -74,7 +74,7 @@ private val inspiredByCart = tastyTreats.copy(
 private val pizzaCollections = listOf(
     tastyTreats,
     popular,
-    wfhFavs,
+    fanFavs,
     newlyAdded,
     exclusive
 )

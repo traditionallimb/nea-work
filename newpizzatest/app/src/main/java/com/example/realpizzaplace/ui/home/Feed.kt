@@ -44,6 +44,7 @@ fun Feed(
     onNavigateToRoute: (String) -> Unit,
     modifier: Modifier = Modifier
 ) {
+    // grabs pizza from the pizzarepo class
     val pizzaCollections = remember { PizzaRepo.getPizzas() }
     val filters = remember { PizzaRepo.getFilters() }
     RealPizzaPlaceScaffold(

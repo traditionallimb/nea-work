@@ -6,10 +6,8 @@ import androidx.compose.runtime.Immutable
 data class Pizza(
     val id: Long,
     val name: String,
-    val imageUrl: String,
     val price: Long,
     val tagline: String = "",
-    val tags: Set<String> = emptySet()
 )
 
 /**
@@ -21,190 +19,162 @@ val pizzas = listOf(
         id = 1L,
         name = "Cheese and Tomato",
         tagline = "A tag line",
-        imageUrl = "https://source.unsplash.com/pGM4sjt_BdQ",
-        price = 299
+        price = 1000
     ),
     Pizza(
         id = 2L,
-        name = "Donut",
+        name = "Meaty Feasty",
         tagline = "A tag line",
-        imageUrl = "https://source.unsplash.com/Yc5sL-ejk6U",
-        price = 299
+        price = 1000
     ),
     Pizza(
         id = 3L,
-        name = "Eclair",
+        name = "Hawiian",
         tagline = "A tag line",
-        imageUrl = "https://source.unsplash.com/-LojFX9NfPY",
-        price = 299
+        price = 1000
     ),
     Pizza(
         id = 4L,
-        name = "Froyo",
+        name = "Pepperoni",
         tagline = "A tag line",
-        imageUrl = "https://source.unsplash.com/3U2V5WqK1PQ",
-        price = 299
+        price = 1000
     ),
     Pizza(
         id = 5L,
-        name = "Gingerbread",
+        name = "Texas BBQ",
         tagline = "A tag line",
-        imageUrl = "https://source.unsplash.com/Y4YR9OjdIMk",
-        price = 499
+        price = 1000
     ),
     Pizza(
         id = 6L,
-        name = "Honeycomb",
+        name = "Veggi Supreme",
         tagline = "A tag line",
-        imageUrl = "https://source.unsplash.com/bELvIg_KZGU",
-        price = 299
+        price = 1000
     ),
     Pizza(
         id = 7L,
-        name = "Ice Cream Sandwich",
+        name = "Chicken Feast",
         tagline = "A tag line",
-        imageUrl = "https://source.unsplash.com/YgYJsFDd4AU",
-        price = 1299
+        price = 1000
     ),
     Pizza(
         id = 8L,
-        name = "Jellybean",
+        name = "Hot and Spicy",
         tagline = "A tag line",
-        imageUrl = "https://source.unsplash.com/0u_vbeOkMpk",
-        price = 299
+        price = 1000
     ),
     Pizza(
         id = 9L,
-        name = "KitKat",
+        name = "Garlic Bread",
         tagline = "A tag line",
-        imageUrl = "https://source.unsplash.com/yb16pT5F_jE",
-        price = 549
+        price = 500
     ),
     Pizza(
         id = 10L,
-        name = "Lollipop",
+        name = "Chips",
         tagline = "A tag line",
-        imageUrl = "https://source.unsplash.com/AHF_ZktTL6Q",
-        price = 299
+        price = 500
     ),
     Pizza(
         id = 11L,
-        name = "Marshmallow",
+        name = "Dough Balls",
         tagline = "A tag line",
-        imageUrl = "https://source.unsplash.com/rqFm0IgMVYY",
-        price = 299
+        price = 500
     ),
     Pizza(
         id = 12L,
-        name = "Nougat",
+        name = "Potato Wedges",
         tagline = "A tag line",
-        imageUrl = "https://source.unsplash.com/qRE_OpbVPR8",
-        price = 299
+        price = 500
     ),
     Pizza(
         id = 13L,
-        name = "Oreo",
+        name = "Chicken Nuggets",
         tagline = "A tag line",
-        imageUrl = "https://source.unsplash.com/33fWPnyN6tU",
-        price = 299
+        price = 500
     ),
     Pizza(
         id = 14L,
-        name = "Pie",
+        name = "Chicken Wings",
         tagline = "A tag line",
-        imageUrl = "https://source.unsplash.com/aX_ljOOyWJY",
-        price = 299
+        price = 500
     ),
     Pizza(
         id = 15L,
-        name = "Chips",
-        imageUrl = "https://source.unsplash.com/UsSdMZ78Q3E",
-        price = 299
+        name = "Chicken Strips",
+        price = 500
     ),
     Pizza(
         id = 16L,
-        name = "Pretzels",
-        imageUrl = "https://source.unsplash.com/7meCnGCJ5Ms",
-        price = 299
+        name = "Cookies",
+        price = 500
     ),
     Pizza(
         id = 17L,
-        name = "Smoothies",
-        imageUrl = "https://source.unsplash.com/m741tj4Cz7M",
-        price = 299
+        name = "Ice Cream",
+        price = 500
     ),
     Pizza(
         id = 18L,
-        name = "Popcorn",
-        imageUrl = "https://source.unsplash.com/iuwMdNq0-s4",
-        price = 299
+        name = "Coke",
+        price = 300
     ),
     Pizza(
         id = 19L,
-        name = "Almonds",
-        imageUrl = "https://source.unsplash.com/qgWWQU1SzqM",
-        price = 299
+        name = "Water",
+        price = 300
     ),
     Pizza(
         id = 20L,
-        name = "Cheese",
-        imageUrl = "https://source.unsplash.com/9MzCd76xLGk",
-        price = 299
+        name = "Fanta",
+        price = 300
     ),
     Pizza(
         id = 21L,
-        name = "Apples",
+        name = "Dr Pepper",
         tagline = "A tag line",
-        imageUrl = "https://source.unsplash.com/1d9xXWMtQzQ",
-        price = 299
+        price = 300
     ),
     Pizza(
         id = 22L,
-        name = "Apple sauce",
+        name = "Sprite",
         tagline = "A tag line",
-        imageUrl = "https://source.unsplash.com/wZxpOw84QTU",
-        price = 299
+        price = 300
     ),
     Pizza(
         id = 23L,
-        name = "Apple chips",
+        name = "Coffee",
         tagline = "A tag line",
-        imageUrl = "https://source.unsplash.com/okzeRxm_GPo",
-        price = 299
+        price = 300
     ),
     Pizza(
         id = 24L,
-        name = "Apple juice",
+        name = "Tea",
         tagline = "A tag line",
-        imageUrl = "https://source.unsplash.com/l7imGdupuhU",
-        price = 299
+        price = 300
     ),
     Pizza(
         id = 25L,
-        name = "Apple pie",
+        name = "Hot Chocolate",
         tagline = "A tag line",
-        imageUrl = "https://source.unsplash.com/bkXzABDt08Q",
-        price = 299
+        price = 300
     ),
     Pizza(
         id = 26L,
-        name = "Grapes",
+        name = "Lemonade",
         tagline = "A tag line",
-        imageUrl = "https://source.unsplash.com/y2MeW00BdBo",
-        price = 299
+        price = 300
     ),
     Pizza(
         id = 27L,
-        name = "Kiwi",
+        name = "Capri-Sun",
         tagline = "A tag line",
-        imageUrl = "https://source.unsplash.com/1oMGgHn-M8k",
-        price = 299
+        price = 150
     ),
     Pizza(
         id = 28L,
-        name = "Mango",
+        name = "Fruit Shoot",
         tagline = "A tag line",
-        imageUrl = "https://source.unsplash.com/TIGDsyy0TK4",
-        price = 299
+        price = 150
     )
 )
